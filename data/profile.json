@@ -48,13 +48,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Clonando o site da HBOMax com animações em HTMl5 e CSS3",
+      "url": "https://github.com/inaldomacena/clonando-o-site-da-HBO-MAX-com-animacoes-em-HTML-e-CSS",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Construindo um layout responsivo para o site do discord com CSS3",
+      "url": "https://github.com/inaldomacena/construindo-um-layout-responsivo-para-o-site-do-discord-com-css",
       "github": true
     }
   ],
